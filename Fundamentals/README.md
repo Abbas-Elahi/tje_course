@@ -13,5 +13,3 @@ ID: @aeromche
 ## Recommended environment
 Python 3.12 with Jupyter/VS Code. Install NumPy and Matplotlib if needed. Turtle is part of the Python standard library but requires a desktop GUI.
 
-## Tip
-Extract the whole ZIP before opening the notebook so relative image and data paths work correctly.
