@@ -1,5 +1,0 @@
-py -3.12 -m venv tajassom-env
-tajassom-env\Scripts\activate
-python -m pip install pygame
-py -3.12 --version
-Install the Python Extension(Extensions-->Ctrl + Shift + X-->Python-->Publisher: Microsoft-->Install)
